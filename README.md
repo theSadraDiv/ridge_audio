@@ -21,3 +21,28 @@ The script generates the data and prints a JSON report with both models' errors 
 ```bash
 python ridge_audio.py --sample 12 --output results/report.json
 ```
+
+<img width="1080" height="1350" alt="رگرشن_01" src="https://github.com/user-attachments/assets/611c613f-81bc-417a-a498-243f99bea931" />
+<img width="1080" height="1350" alt="رگرشن_02" src="https://github.com/user-attachments/assets/7ea36f65-e71f-458d-a9ce-9472ba438908" />
+<img width="1080" height="1350" alt="رگرشن_03" src="https://github.com/user-attachments/assets/484e1ea3-950c-434f-bc13-7d796402d468" />
+<img width="1080" height="1350" alt="رگرشن_04" src="https://github.com/user-attachments/assets/92fc46d8-3889-4150-b35f-986a67f3f73c" />
+<img width="1080" height="1350" alt="رگرشن_05" src="https://github.com/user-attachments/assets/82d607a1-a075-43e8-8d74-f89bb7d62a30" />
+<img width="1080" height="1350" alt="رگرشن_06" src="https://github.com/user-attachments/assets/d1710f4b-8e40-4b45-856c-21c7ce844305" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
